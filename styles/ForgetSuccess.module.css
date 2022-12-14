@@ -1,0 +1,47 @@
+.container {
+    background-color: #FFF;
+    padding: 50px 24px;
+}
+
+.header {
+    font-family: 'Calistoga';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    text-align: center;
+    color: #1B1B1B;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.iconArea {
+    display: flex;
+    justify-content: center;
+    margin: 146px auto 53px auto;
+
+}
+
+.title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #1B1B1B;
+    margin-bottom: 30px;
+}
+
+.subtitle {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(27, 27, 27, 0.8);
+    margin: auto;
+    width: 306px;
+    padding-bottom: 40px;
+    position: relative;
+}

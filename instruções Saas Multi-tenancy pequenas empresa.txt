@@ -1,0 +1,52 @@
+Planejando do zero um Saas Multi-tenancy para pequenas empresas
+
+Pessoas que vão utilizar este sistema:
+- Usuario final.
+- O estabelecimento.
+- Admin dos sistema.
+
+Funcionalidades:
+- Carrinho de compras (com checkout).
+- Listagem e produtos.
+- Login/Cadastro.
+- Visualização de pedidos.
+
+- Gestão de pedidos.
+- Gestão de produtos.
+
+- Gestão de estabelecimentos.
+
+telas:
+- Listagem de promoções e produtos.
+- Pagina do produto especifico.
+- Carrinho de compra.
+- Login/Cadastro.
+- Checkout (para logado).
+- Cadastro de endereços.
+- Lista de pedidos.
+- Pedido Individual.
+
+- Login/Cadastro para estebelecimentos.
+- Listagem de pedidos.
+- Edição de pedidos.
+- Listagem de produtos.
+- Edição de produtos.
+
+- Listagem de estabelecimentos.
+- Edição de estabelecimentos.
+
+Definir as tecnologias:
+- NextJS 9com SSR) e Prisma (ORM).
+- MySQL / PostgreSQL.
+- API RESTful.
+- Typescript.
+
+npx create-next-app
+
+confirma e crie um nome para aplicação
+
+para iniciar aplicação digite no console npm run dev
+
+
+1:05:10
+
